@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi everyone! 👋 I'm Rifsap
 
-<!--
-**Hesitatex/Hesitatex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am a beginner web developer currently learning how to code. Right now, I am focusing on mastering HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+### 🔗 Connect with me
+<p align="left">
+  <a href="https://twitter.com" target="blank">
+    <img src="https://shields.io" alt="derrysaputra" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Current Projects
+* **[privchat-V1](https://github.com)** - A private chat application built with TypeScript and JavaScript.
+* **[privchat](https://github.com)** - Core repository for my chat system development.
+
+### 🛠️ Tech Stack I Use
+<p align="left">
+  <!-- HTML5 Badge -->
+  <img src="https://shields.io" />
+  <!-- CSS3 Badge -->
+  <img src="https://shields.io" />
+  <!-- JavaScript Badge -->
+  <img src="https://shields.io" />
+  <!-- TypeScript Badge -->
+  <img src="https://shields.io" />
+</p>
+
+### 📊 My GitHub Stats
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" width="400"/>
+</p>
