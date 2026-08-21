@@ -1,4 +1,4 @@
-# Hi everyone! 👋 I'm Rifsap
+# Hi everyone! 👋 I'm Rifqi
 
 ### 🚀 About Me
 I am a beginner web developer currently learning how to code. Right now, I am focusing on mastering HTML, CSS, and JavaScript.
@@ -16,16 +16,16 @@ I am a beginner web developer currently learning how to code. Right now, I am fo
 ### 🛠️ Tech Stack I Use
 <p align="left">
   <!-- HTML5 Badge -->
-  <img src="https://shields.io" />
+  <img src="https://shields.io?v=1" />
   <!-- CSS3 Badge -->
-  <img src="https://shields.io" />
+  <img src="https://shields.io?v=1" />
   <!-- JavaScript Badge -->
-  <img src="https://shields.io" />
+  <img src="https://shields.io?v=1" />
   <!-- TypeScript Badge -->
-  <img src="https://shields.io" />
+  <img src="https://shields.io?v=1" />
 </p>
 
 ### 📊 My GitHub Stats
 <p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" width="400"/>
+  <img src="https://vercel.app?v=1" alt="GitHub Stats" width="400"/>
 </p>
