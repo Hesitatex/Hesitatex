@@ -12,3 +12,6 @@ I am a beginner web developer currently learning how to code. Right now, I am fo
 
 ### 🛠️ Tech Stack I Use
 * **Languages**: HTML5, CSS3, JavaScript, TypeScript
+
+### 🐍 My Contribution Snake Game
+![Snake Animation](https://githubusercontent.com)
