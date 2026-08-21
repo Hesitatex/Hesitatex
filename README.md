@@ -4,6 +4,9 @@
   <img src="https://demolab.com!" alt="Typing SVG" />
 </a>
 
+<p align="right">
+  <img src="[https://giphy.com](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV0NWw3MmgzOHM3Y2Q2MWtxdDRwN2dudzJtb3AxazB1YWp4cTNuYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ASd0Ukj0y3qMM/giphy.gif)" width="150" />
+</p>
 
 ### 🚀 About Me
 I am a beginner web developer currently learning how to code. Right now, I am focusing on mastering HTML, CSS, and JavaScript.
