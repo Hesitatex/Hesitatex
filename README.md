@@ -1,4 +1,9 @@
-# Hi everyone! 👋 I'm Rifqi
+# Hi everyone! 👋 
+## I'm Rifsap
+<a href="https://git.io">
+  <img src="https://demolab.com!" alt="Typing SVG" />
+</a>
+
 
 ### 🚀 About Me
 I am a beginner web developer currently learning how to code. Right now, I am focusing on mastering HTML, CSS, and JavaScript.
@@ -29,3 +34,4 @@ I am a beginner web developer currently learning how to code. Right now, I am fo
 <p align="left">
   <img src="https://vercel.app?v=1" alt="GitHub Stats" width="400"/>
 </p>
+
