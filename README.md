@@ -1,17 +1,17 @@
-# Hi everyone! 👋 I'm Rifsap (Hesitatex)
+# Hi everyone!  I'm Rifqi (Hesitatex)
 
-### 🚀 About Me
+###  About Me
 I am a beginner web developer currently learning how to code. Right now, I am focusing on mastering HTML, CSS, and JavaScript.
 
-### 🔗 Connect with me
-* **Twitter / X**: [@derrysaputra](https://twitter.com)
+###  Connect with me
+* **Twitter / X**: @derrysaputra](https://twitter.com)
 
-### 💻 Current Projects
+###  Current Projects
 * **[privchat-V1](https://github.com)** - A private chat application built with TypeScript and JavaScript.
 * **[privchat](https://github.com)** - Core repository for my chat system development.
 
-### 🛠️ Tech Stack I Use
+###  Tech Stack I Use
 * **Languages**: HTML5, CSS3, JavaScript, TypeScript
 
-### 🐍 My Contribution Snake Game
-![GitHub Contribution Snake](https://githubusercontent.com)
+Website
+(https://rifqisaputra.netlify.app/)
