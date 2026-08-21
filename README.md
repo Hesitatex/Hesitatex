@@ -4,11 +4,10 @@
 I am a beginner web developer currently learning how to code. Right now, I am focusing on mastering HTML, CSS, and JavaScript.
 
 ### 🔗 Connect with me
-<p align="left">
-  <a href="https://twitter.com" target="blank">
-    <img src="https://shields.io" alt="derrysaputra" />
-  </a>
-</p>
+* **Twitter / X**: [@derrysaputra](https://twitter.com)
+
+### 🛠️ Tech Stack I Use
+* **Languages**: HTML5, CSS3, JavaScript, TypeScript
 
 ### 💻 Current Projects
 * **[privchat-V1](https://github.com)** - A private chat application built with TypeScript and JavaScript.
