@@ -14,5 +14,4 @@ I am a beginner web developer currently learning how to code. Right now, I am fo
 * **Languages**: HTML5, CSS3, JavaScript, TypeScript
 
 ### 🐍 My Contribution Snake Game
-
-  <img src="https://githack.com" alt="Snake Animation" />
+![GitHub Contribution Snake](https://githubusercontent.com)
